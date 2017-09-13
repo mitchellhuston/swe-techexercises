@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="mhuston-swe01">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <property name="context-root" value="mhuston-swe01"/>
-        <property name="java-output-path" value="/mhuston-swe01/build/classes"/>
-    </wb-module>
-</project-modules>
